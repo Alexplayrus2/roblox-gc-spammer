@@ -1,0 +1,20 @@
+{
+  "name": "roblox-gc-spammer",
+  "version": "1.0.0",
+  "description": "lets you create a specific amount of group chats with you and a one friend in them",
+  "main": "main.js",
+  "bin": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "roblox-gc-spammer"
+  },
+  "author": "Alexplayrus1",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "noblox.js": "^4.13.1"
+  }
+}
